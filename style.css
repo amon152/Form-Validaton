@@ -62,7 +62,7 @@ form select:focus {
 form input.error,
 form select.error {
   border-color: #e42121;
-  background: #ebd3d6;
+  background: #ffffff;
 }
 
 form small {
