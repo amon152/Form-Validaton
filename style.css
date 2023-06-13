@@ -61,7 +61,7 @@ form select:focus {
 
 form input.error,
 form select.error {
-  border-color: #e42121;
+  border-color: #dd3838;
   background: #ffffff;
 }
 
